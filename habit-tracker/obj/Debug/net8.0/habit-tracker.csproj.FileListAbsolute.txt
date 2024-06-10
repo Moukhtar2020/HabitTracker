@@ -1,0 +1,14 @@
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/obj/Debug/net8.0/habit-tracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/obj/Debug/net8.0/habit-tracker.AssemblyInfoInputs.cache
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/obj/Debug/net8.0/habit-tracker.AssemblyInfo.cs
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/obj/Debug/net8.0/habit-tracker.csproj.CoreCompileInputs.cache
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/bin/Debug/net8.0/habit-tracker
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/bin/Debug/net8.0/habit-tracker.deps.json
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/bin/Debug/net8.0/habit-tracker.runtimeconfig.json
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/bin/Debug/net8.0/habit-tracker.dll
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/bin/Debug/net8.0/habit-tracker.pdb
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/obj/Debug/net8.0/habit-tracker.dll
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/obj/Debug/net8.0/refint/habit-tracker.dll
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/obj/Debug/net8.0/habit-tracker.pdb
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/obj/Debug/net8.0/habit-tracker.genruntimeconfig.cache
+/Users/moukhtarhachim/Documents/C_Projects/HabitTracker/habit-tracker/obj/Debug/net8.0/ref/habit-tracker.dll
